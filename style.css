@@ -114,8 +114,8 @@ body .movie-container .container .screen {
   background-color: #f5f5ff;
   -webkit-transform: rotateX(-45deg);
           transform: rotateX(-45deg);
-  -webkit-box-shadow: 0px 3px 10px  whitesmoke;
-          box-shadow: 0px 3px 10px  whitesmoke;
+  -webkit-box-shadow: 0px 3px 10px whitesmoke;
+          box-shadow: 0px 3px 10px whitesmoke;
 }
 
 body .movie-container .container .seatings {
